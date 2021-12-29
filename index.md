@@ -13,11 +13,9 @@ There should be whitespace between paragraphs. We recommend including a README, 
 # Project 1
 
 fraud_detection 
-## Header 2
+## Project 2
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Time Series 
 
 ### Header 3
 
